@@ -1,0 +1,10 @@
+.user-tree {
+  margin-top: 20px;
+}
+
+.tree-item {
+  padding: 10px;
+  border: 1px solid #eee;
+  border-radius: 5px;
+  margin: 5px 0;
+}
